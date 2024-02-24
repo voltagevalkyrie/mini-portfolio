@@ -13,7 +13,7 @@ A responsive mini-portfolio designed for optimal viewing on smartphones.
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -62,7 +62,4 @@ Customize the content in the `index.html` file to add your projects, experience,
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions are welcome!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
