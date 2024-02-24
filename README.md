@@ -34,7 +34,7 @@ Provide a link to the live demo or screenshots to give users a glimpse of your m
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mini-portfolio.git
+git clone https://github.com/voltagevalkyrie/mini-portfolio.git
 ```
 
 2. Open `index.html` in your preferred browser.
